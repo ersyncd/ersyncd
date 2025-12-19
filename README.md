@@ -1,28 +1,53 @@
 ### Hi there 👋, I'm Teguh Ersyarudin!
 *(a.k.a ersyncd)*
 
-Seorang pengembang web yang gemar bereksperimen dengan kode.
-Saat ini sedang menikmati proses belajar dan transisi dari pengembangan backend tradisional ke ekosistem Javascript modern.
+Seorang **Software Engineer** yang fokus membangun aplikasi web modern yang cepat dan *scalable*.
+Berlatar belakang teknis yang kuat, saya terbiasa menangani logika backend yang kompleks hingga implementasi antarmuka yang presisi.
 
-- 🔭 Fokus utama: **Membangun web yang fungsional & efisien**
-- 🌱 Sedang mendalami: **TypeScript & Next.js**
-- ⚡ **VS Code** adalah senjata andalan saya sehari-hari.
-
----
-
-### 🛠️ Languages & Tools
-Saya menggunakan tools ini untuk mengubah ide menjadi aplikasi:
-
-| Kategori | Stack |
-| :--- | :--- |
-| **Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> TypeScript &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript |
-| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"/> Next.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="20"/> Vue.js &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="20"/> Svelte |
-| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> PHP &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="20"/> Laravel &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python |
-| **Environment** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20"/> VS Code &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20"/> Linux (Arch/CachyOS) |
+- 🔭 Fokus utama: **Next.js Ecosystem, System Architecture, & IoT Integrations**
+- ⚡ Pendekatan: Menulis kode yang bersih (*clean code*), aman (*type-safe*), dan efisien.
 
 ---
 
-### 📊 Most Used Languages
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElysiaJS-FH4499?style=for-the-badge&logo=elysia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F57C00?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
 <a href="https://github.com/ersyncd">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersyncd&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" />
