@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Nama Kamu]!
+### Hi there 👋, I'm Teguh Ersyarudin!
 
 Saya seorang Developer yang suka ngoding sambil ngopi.
 
@@ -21,6 +21,6 @@ Saya seorang Developer yang suka ngoding sambil ngopi.
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ersyncd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersyncd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
