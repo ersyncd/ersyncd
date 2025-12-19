@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Teguh Ersyarudin!
-*(a.k.a ersync / ersyncd)*
+*(a.k.a ersyncd)*
 
-🚀 **Ex-Laravel Developer transitioning to Modern TypeScript Ecosystem.**
-Saya menggabungkan pemahaman kuat tentang Backend (PHP/SQL) dengan fleksibilitas Frontend Modern (Next.js/React).
+🚀 **Software Engineer** | **Web & System Enthusiast**
+Saya menggabungkan fondasi kuat di **Backend (PHP/Laravel)** dengan eksplorasi mendalam di **Modern Web (Next.js/TypeScript)** dan **System/IoT**.
 
-- 🔭 I’m currently working on **Next.js App Router Projects**
-- 🌱 I’m currently learning **Advanced TypeScript Patterns & System Architecture**
-- ⚡ **Fun fact:** 50%+ of my recent code is TypeScript/JavaScript, proving my shift to the modern web stack.
+- 🔭 I’m currently working on **Modern Web Apps & System Integrations**
+- 🌱 I’m currently exploring **System Architecture & Linux Ecosystem**
+- ⚡ **Focus:** Building reliable, type-safe applications with efficient workflows.
 
 ---
 
-### 🛠️ Languages & Tools (Sorted by Usage)
+### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
@@ -31,10 +31,17 @@ Saya menggabungkan pemahaman kuat tentang Backend (PHP/SQL) dengan fleksibilitas
 
 ### 📊 Tech Stack Analysis
 <p align="left">
-<a href="https://github.com/ersync">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersync&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html" />
+<a href="https://github.com/ersyncd">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersyncd&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html" />
 </a>
-<a href="https://github.com/ersync">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ersync&show_icons=true&theme=radical&hide_rank=true&hide_title=true&count_private=true" />
+<a href="https://github.com/ersyncd">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ersyncd&show_icons=true&theme=radical&hide_rank=true&hide_title=true&count_private=true" />
+</a>
+</p>
+
+### 🏆 Achievements
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ersyncd&theme=radical&no-frame=true&no-bg=true" />
 </a>
 </p>
