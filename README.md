@@ -2,7 +2,7 @@
 *(a.k.a ersyncd)*
 
 Seorang **Software Engineer** yang fokus membangun aplikasi web modern yang cepat dan *scalable*.
-Berlatar belakang teknis yang kuat, saya terbiasa menangani logika backend yang kompleks hingga implementasi antarmuka yang presisi.
+Berlatar belakang teknis yang kuat, saya terbiasa menangani logika backend hingga implementasi antarmuka.
 
 - 🔭 Fokus utama: **Next.js Ecosystem, System Architecture, & IoT Integrations**
 - ⚡ Pendekatan: Menulis kode yang bersih (*clean code*), aman (*type-safe*), dan efisien.
